@@ -1,0 +1,150 @@
+body {
+    height: 95vh;
+    width: 99vw;
+}
+
+.main{
+    width: 98%;
+    margin: 0 1% 0 1%;
+    height: 94%;
+    border-radius: 1.5%;
+    font-size: 1vh;
+    background-color: rgb(120, 165, 166);
+    color: rgba(120, 165, 166, 0);
+}
+.rule{
+    margin: 0 1% 0 1%;
+    width: 98%;
+    height: 60%;
+    background-color: rgba(89, 132, 133,0);
+}
+.NEx{
+    display: inline-block;
+    margin: 0;
+    width: 20%;
+    height: 100%;
+    background-color: rgba(130, 188, 189,0);
+}
+.number{
+    margin: 0 0 9% 0;
+    color: black;
+    font-size: 20pt;
+    width: 100%;
+    height: 30%;
+    border-radius: 5%;
+    background-color: rgb(157, 235, 236);
+}
+.buttons{
+    margin: 0;
+    width: 100%;
+    height: 64%;
+    border-radius: 5%;
+    background-color: rgb(157, 235, 236);
+}
+.questionZN{
+    display: inline-block;
+    float: right;
+    margin: 0 0 0 2%;
+    width: 76%;
+    height: 100%;
+    border-radius: 1%;
+    background-color: rgb(157, 235, 236);
+}
+.Qtext{
+    display: inline-block;
+    margin: 0;
+    border-right: 4px dashed rgb(60, 85, 143);
+    padding: 2% 2% 0% 2%;
+    width: 46%;
+    height: 95%;
+    background-color: rgba(4, 140, 142,0);
+    color: black;
+    font-size: 20pt;
+}
+.Qpic{
+    float: right;
+    display: inline-block;
+    margin: 0;
+    padding: 2% 2% 2% 2%;
+    width: 45%;
+    height: 91%;
+    background-color: rgba(4, 140, 142,0);
+    color: black;
+    font-size: 20pt;
+}
+.AnsZn{
+    margin: 1% 1% 0 1%;
+    width: 98%;
+    height: 28%;
+    background-color: rgba(89, 132, 133,0);
+}
+.AC{
+    margin: 0 0 0.5% 0;
+    height: 48%;
+    width: 100%;
+    background-color: rgba(0, 55, 255,0);
+}
+.A{
+    float: left;
+    height: 100%;
+    border: 4px solid blue;
+    border-radius: 10%;
+    width: 49%;
+    background-color: White;
+}
+.C{
+    float: right;
+    height: 100%;
+    border: 4px solid yellow;
+    border-radius: 10%;
+    width: 49%;
+    background-color: White;
+}
+.BD{
+    margin: 0 0 0 0;
+    height: 48%;
+    width: 100%;
+    background-color: rgba(255, 0, 0,0);
+}
+.B{
+    float: left;
+    height: 100%;
+    border: 4px solid green;
+    border-radius: 10%;
+    width: 49%;
+    background-color: white;
+}
+.D{
+    float: right;
+    height: 100%;
+    border: 4px solid red;
+    border-radius: 10%;
+    width: 49%;
+    background-color: white;
+}
+.Icon{
+    float: left;
+    margin-left: 4%;
+    height: 100%;
+    width: 20%;
+}
+.Text{
+    float: rigth;
+    height: 100%;
+    width: 100%;
+    color: black;
+    font-size: 20pt;
+    padding-top: 2.5%;
+}
+.Begin{
+    border: 0;
+    background-color: white;
+    border-radius: 5%;
+    float: left;
+    margin-top: 6px;
+    margin-left: 3%;
+    width: 94%;
+    height: 94%;
+    color: black;
+    font-size: 20pt;
+}
