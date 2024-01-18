@@ -428,9 +428,11 @@ function buttonAction(Elements){
         Elements.Ctext.style.color = 'black';
         Elements.Dtext.style.color = 'black';
         Elements.RightAnswers=0;
+        Elements.NOWis=1;
     }
     else if(Elements.isPlay==true){
         console.log('>>Status: NEW QUESTION');
+        Elements.NOWis++;
         Elements.isPlay=false;
         Elements.isAnswered=true;
         //Изменеие режима игры. Теперь мы не на N вопросе. Мы выбираем.
